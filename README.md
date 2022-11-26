@@ -30,6 +30,9 @@ employee data.*
 
 
 -----
+#### Video demo of the system:
+[Download Video](./employee%20management.mkv)
+----
 
 ## UI:
 
